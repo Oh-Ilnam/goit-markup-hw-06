@@ -866,8 +866,8 @@ img {
   cursor: pointer;
 }
 
-.footer-cont {
-  margin-right: 93px;
+.footer-subscribe {
+  margin-left: auto;
 }
 
 .footer-send-btn:hover,
@@ -1074,6 +1074,9 @@ img {
 
 .modal-icon-position {
   position: relative;
+}
+
+.modal-field {
   margin-bottom: 10px;
 }
 
